@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👋 Hey there! I'm a Brazilian data analyst passionate about uncovering insights and transforming data into valuable information. Currently diving into the worlds of QA and Data Science to expand my skills and knowledge.<br><br>🔭 Searching work as a data analyst<br>🌱 Actively learning QA & Data Science<br>⚡ In my free time, I love playing Valorant and watching movies.</p>
+<p align="left">👋 Hey there! I'm a Brazilian data analyst passionate about uncovering insights and transforming data into valuable information. Currently diving into the worlds of QA and Data Science to expand my skills and knowledge.<br><br>🔭 Searching work as a ??<br>🌱 Actively learning QA & Data Science<br>⚡ In my free time, I love playing Valorant and watching movies.</p>
 
 ###
 
