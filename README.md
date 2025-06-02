@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="300" src="https://i.imgur.com/MRY9yEz.png"  />
-</div>
-
 ###
 
 <h4 align="center">“𝘈𝘯𝘺 𝘧𝘰𝘰𝘭 𝘤𝘢𝘯 𝘸𝘳𝘪𝘵𝘦 𝘤𝘰𝘥𝘦 𝘵𝘩𝘢𝘵 𝘢 𝘤𝘰𝘮𝘱𝘶𝘵𝘦𝘳 𝘤𝘢𝘯 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥. 𝘎𝘰𝘰𝘥 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳𝘴 𝘸𝘳𝘪𝘵𝘦 𝘤𝘰𝘥𝘦 𝘵𝘩𝘢𝘵 𝘩𝘶𝘮𝘢𝘯𝘴 𝘤𝘢𝘯 𝘶𝘯𝘥𝘦𝘳𝘴𝘵𝘢𝘯𝘥.”</h4>
@@ -12,7 +8,7 @@
 
 ###
 
-<p align="left">👋 Hey there! <br><br>🌱 Actively learning QA & Data Science<br>⚡ In my free time, I love playing Valorant and watching movies.</p>
+<p align="left">👋 Hey there! <br><br>🌱 Actively learning Technology and Design<br>⚡ In my free time, I love playing Valorant and watching movies.</p>
 
 ###
 
@@ -20,7 +16,7 @@
 
 ###
 
-<p align="left">🎈 Python & Django, C++, C#, C, HTML, CSS, JS, NodeJS, SQL, MongoDB, Mysql, AWS, Azure, MariaDB, Docker, Azure, Selenium, Cypress, Jester, Angular, Spring e etc...</p>
+<p align="left">🎈 Python & Django, C++, C#, C, HTML, CSS, JS, NodeJS, SQL, MongoDB, Mysql, AWS, Azure, MariaDB, Docker, Azure, Selenium, Cypress, Jester, Angular, Java, Spring e etc...</p>
 
 ###
 
@@ -107,9 +103,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dudamelog&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudamelog&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudamelog&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ###
 
