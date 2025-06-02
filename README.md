@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎈 Python & Django, C++, C#, C, HTML, CSS, JS, NodeJS, SQL, MongoDB, Mysql, AWS, Azure, MariaDB, Docker, Azure, Selenium, Cypress, Jester, Angular, Java, Spring e etc...</p>
+<p align="left">🎈 Python & Django, C++, C#, C, HTML, CSS, JS, NodeJS, SQL, MongoDB, Mysql, AWS, Azure, Docker, Selenium, Cypress, Jester, Angular, Java, Spring e etc...</p>
 
 ###
 
