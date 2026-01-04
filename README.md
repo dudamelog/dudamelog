@@ -4,22 +4,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<img src="https://i.imgur.com/UTQoNyD.jpeg" alt="warm kitty sitting in a home server" min-width="400px" max-width="400px" width="300px" align="right">
 
-###
+<p align="left"> 
+  Another enjoyer of breaking things, currently balancing college, hands-on projects and improving software quality through testing, analysis and development practices.
+  <br> "It works in my pc" is not an acceptable answer
+</p>
 
-<p align="left">👋 Hey there! <br><br>🌱 Actively learning Technology and Design<br>⚡ In my free time, I love playing Valorant and watching movies.</p>
+<p align="center">
+  Contact me :) ↴
+</p>
 
-###
-
-<h4 align="left">A short resume about my skills:</h4>
-
-###
-
-<p align="left">🎈 Python & Django, C++, C, HTML, CSS, JS, NodeJS, SQL, MongoDB, Mysql, AWS, Azure, Docker, Selenium, Cypress, Jester, Angular, Java, Spring e etc...</p>
-
-###
-
+<p align="center">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariaeduardademelogomes/" alt="LinkedIn"/></a>
+</p>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -80,36 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dudamelog/dudamelog/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">🎇   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudamelog&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-###
-
-<h3 align="left">📞 Contact Me</h3>
-
-###
-
-<div align="center">
-  <a href="https://linktr.ee/dudamelog" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  </a>
 </div>
 
 ###
