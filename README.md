@@ -16,8 +16,12 @@
 </p>
 
 <p align="center">
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dudamelo/" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/dudamelo/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 </p>
 <h3 align="left"> Language and tools</h3>
 
